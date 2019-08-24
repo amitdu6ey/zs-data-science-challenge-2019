@@ -1,7 +1,7 @@
 # zs-data-science-challenge-2019
 ## NOTE :
-This is by no means a production ready code I only use python notebook for prototyping.
-The submissions were made in a comptetive environment where fast coding was as important
+This is by no means a production ready code I only use jupyter notebooks for prototyping.
+The submissions were made in a ##comptetive ##environment where fast coding was as important
  as clean code.
  ## Problem Statement :
 As we know, Cristiano Ronaldo is a legend in the football world. He has played a thousand games & scored hundred of goals . Now, given the dataset of Cristiano Ronaldo’s “attempts on the goal target, in his all recorded & unrecorded matches, predict if he has scored a goal or not . Formally you are given a dataset of attempts taken by Ronaldo , Predict if he scored a goal or not.
